@@ -1,5 +1,5 @@
 (function() {var implementors = {};
-implementors['libc'] = [];implementors['enum_primitive'] = [];implementors['png'] = ["impl <a class='trait' href='https://doc.rust-lang.org/nightly/core/ops/trait.Not.html' title='core::ops::Not'>Not</a> for <a class='struct' href='png/struct.Transformations.html' title='png::Transformations'>Transformations</a>",];
+implementors["greenglas"] = ["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/ops/trait.Not.html\" title=\"trait core::ops::Not\">Not</a> for <a class=\"struct\" href=\"https://docs.rs/bitflags/0.9.1/bitflags/example_generated/struct.Flags.html\" title=\"struct bitflags::example_generated::Flags\">Flags</a>","impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/ops/trait.Not.html\" title=\"trait core::ops::Not\">Not</a> for Transformations",];
 
             if (window.register_implementors) {
                 window.register_implementors(implementors);

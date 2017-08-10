@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["Point2D",""],["Point3D",""],["Point4D",""]],"type":[["TypedPoint2D",""]]});

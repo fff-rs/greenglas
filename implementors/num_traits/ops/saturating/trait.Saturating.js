@@ -1,5 +1,5 @@
 (function() {var implementors = {};
-implementors['num_traits'] = [];
+implementors["greenglas"] = [];
 
             if (window.register_implementors) {
                 window.register_implementors(implementors);
