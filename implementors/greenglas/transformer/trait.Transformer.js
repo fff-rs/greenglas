@@ -6,5 +6,4 @@ implementors["greenglas"] = [];
             } else {
                 window.pending_implementors = implementors;
             }
-        
-})()
+        })()
